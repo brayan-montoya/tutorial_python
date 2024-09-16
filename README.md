@@ -5,7 +5,8 @@ Python admite varios tipos de datos nativos:
 - **Enteros (int):** Números enteros, como `10`, `-5`.
 - **Punto Flotante (float):** Números decimales, como `3.14`, `-0.1`.
 - **Cadenas de Texto (str):** Secuencias de caracteres, como `"Hola, Mundo!"`.
-- **Booleanos (bool):** Valores de verdad, `True` o `False`.
+- **Booleanos (bool):** Valores de verdad, `True` o `False`.  .
+
 
 
 ##  Operaciones entre Tipos de Datos
